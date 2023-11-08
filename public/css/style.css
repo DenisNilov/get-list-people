@@ -1,0 +1,27 @@
+button {
+    text-align: center;
+  display: inline-block;
+  padding: 15px 40px;
+  border: 1px solid #e91111;
+  cursor: pointer;
+  letter-spacing: 2px;
+  position:relative;
+  overflow:hidden;
+  margin: 0 20px;
+}
+
+.main{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.person{
+  margin: 10px;
+}
+
+h1{
+  margin: 30px;
+}

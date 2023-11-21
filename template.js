@@ -22,7 +22,7 @@ function getTemlate(data) {
 
 const getPeople = (person) => `<div class="people">
 <img src = ${person.picture.large}>
-<h1>${person.name.first}  ${person.name.last}<h1>
+<h1>${person.name.first} <h1>
 </div>`;
 
 
